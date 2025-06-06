@@ -6,3 +6,7 @@ call with the string per line. It takes the API response (a JSON with the card d
 organized it for my needs, in this case card cost and color identity per nonland card. From there I printed out into the console the DataFrames to confirm it worked, then took the DataFrames and represented them as graphs
 through matplotlib and seaborn. 
 I learned a lot through this project, refreshed my skills on API calls and learned how to clean data and manipulate DataFrames.
+
+
+The project requires these installs to work
+pip install requests pandas matplotlib seaborn
